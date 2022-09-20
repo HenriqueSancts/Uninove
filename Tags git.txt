@@ -1,0 +1,11 @@
+comandos git
+mkdir // cria um diretorio//
+touch // cria um arquivo EX: exemplo.txt//
+git init// cria um diretorio oculto .git//
+ls // onde estamos//
+OBS:arquivos devem estar dentro da pasta.git para serem identificadoos
+git status // verifica o que esta armazenaado //
+git add // adiciona os dados //
+git commit //identifica e armazena os dados no repozitorio local//
+
+ 
